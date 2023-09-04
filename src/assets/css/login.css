@@ -1,0 +1,9 @@
+.login-btn-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.login-btn {
+    width: 120px;
+}

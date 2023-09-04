@@ -1,0 +1,14 @@
+.btn-container {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.yes-btn {
+    margin-top: 10px;
+    width: 50%;
+}
+
+.no-btn {
+    margin-top: 10px;
+    width: 100%
+}

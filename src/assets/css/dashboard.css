@@ -1,0 +1,35 @@
+.btns {
+    height: 30px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.title {
+    text-align: center;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+
+.taskList-row {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px
+}
+
+.edit-text {
+    padding: 0px;
+    max-height: 100%;
+}
+
+.add-todo {
+    margin-left: 100px;
+}
+
+.unorder-list {
+    list-style-type: none;
+}
+
+.text-underline {
+    text-decoration-line: line-through;
+}
